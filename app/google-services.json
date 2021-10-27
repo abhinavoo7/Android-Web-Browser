@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792509922591",
+    "project_id": "minibrowser-9360c",
+    "storage_bucket": "minibrowser-9360c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792509922591:android:2edb8ed8176371e881842a",
+        "android_client_info": {
+          "package_name": "com.example.mywebbrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792509922591-cnpb4m59qces7096eva0ptujscr0stsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1kGevSwVSMdhGVtkFcCUw52jBHVR7K9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792509922591-cnpb4m59qces7096eva0ptujscr0stsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

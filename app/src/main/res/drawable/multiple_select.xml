@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_pressed="true"
+        android:state_activated="true"
+        android:drawable="@color/black_semi_transparent_pressed"
+        />
+    <item
+        android:state_activated="true"
+        android:drawable="@color/purple_500"
+        />
+    <item
+        android:state_enabled="true"
+        android:drawable="@android:color/transparent"
+        />
+    <item
+        android:drawable="@color/blue_semi_transparent"
+        />
+
+</selector>

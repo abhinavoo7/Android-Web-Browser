@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/customhistid"
+        android:visibility="gone"
+        android:textColor="#343434"
+        android:textSize="14sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/customhisttitle"
+        android:textColor="#343434"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:background="@drawable/multiple_select"
+        android:textSize="14sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/customhisturl"
+        android:ellipsize="end"
+        android:layout_marginTop="35dp"
+        android:textColor="#343434"
+        android:background="@drawable/multiple_select"
+        android:textSize="14sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/customhisttime"
+        android:ellipsize="end"
+        android:layout_marginTop="35dp"
+        android:textColor="#343434"
+        android:background="@drawable/multiple_select"
+        android:layout_toRightOf="@id/customhisturl"
+        android:layout_marginLeft="10dp"
+        android:textSize="14sp"/>
+</RelativeLayout>

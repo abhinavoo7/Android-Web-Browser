@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/reload"
+        app:showAsAction="always"
+        android:title="Reload"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_refresh_layer"
+        />
+
+    <item
+        android:id="@+id/speech"
+        app:showAsAction="always"
+        android:title="Speech"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_mic_24"
+        android:onClick="btnspeech"
+        />
+
+    <item
+        android:id="@+id/Previous"
+        app:showAsAction="never"
+        android:title="Previous"
+        />
+
+    <item
+        android:id="@+id/Forward"
+        app:showAsAction="never"
+        android:title="Forward"
+        />
+    <item
+        android:id="@+id/second"
+        app:showAsAction="never"
+        android:title="Second"
+        />
+    <item
+        android:id="@+id/categories"
+        app:showAsAction="never"
+        android:title="Categories"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/permission"
+        app:showAsAction="never"
+        android:title="Permission"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/Downloads"
+        app:showAsAction="never"
+        android:title="Downloads"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/History"
+        app:showAsAction="never"
+        android:title="History"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/textrecognizer"
+        app:showAsAction="never"
+        android:title="TextRecognizer"
+        />
+    <item
+        android:id="@+id/translator"
+        app:showAsAction="never"
+        android:title="Translator"
+        />
+
+</menu>
