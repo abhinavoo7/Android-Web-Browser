@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "mywebbrowser-298110",
-  "private_key_id": "50744619d6f8231841ec8bb709d4b62eff220b90",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhC7hdVhJUoog8\nnlogudlxLmJoAp30g+NzY0TbbcX1nAeWepKvjNL7dXd7lXQtHpiFaGo2xdRRCCCd\nKBa+drYfOGy88tE8mjq77TNPiIJawzK3PxaXdeuJ/rJvxcKlrpEROfBouQM15OY6\nG31YVAOu8v4/NvXTC6aNVMgzP/f7mr9XZtlNb6E6tHNxUjhDoplY3jYjjP21dDtT\naWqiXofVhAVmiJIroL/WYs6jFr5/53L6VwrPGWqdPe6O/h2Cj1z0oyumE5j3n2h+\n7/cDFPba+S4I18g01nMmv1q87BTmmob681i9dbr18p0+B6fReKhU5bt/nF/QtLY9\nQZhiiUm9AgMBAAECgf8cIVrqT9f6vFZLPYAGlzSW8TVbyvfzmIjV45K32wDjsp1A\nMhIj33Z/+C73Q7dB7JEkG+kq74+akWmCO4CcTjp1rJfrBm8hJCYzV3MSff3NWpj8\nTuaECDlpBm1Hi3DJRQjdHmDutjGwiuw8VzNT1yyescEWJciUmOA4ymA8B8L3sCQy\nYotCVjsIyv3BX5JUEeZ4CZjWvHxzHwJj51ZjDH8Eghfh1lkcdJv92kPyytzk/l3r\ncODi1mH0UX4xPYvmxhiKj8XB+FZkJVROZpdeQISru/IfkNPzau2JGLCeVBu8teOJ\ntKdkQVGu8oStYcN5kqdTsPd5mMgHJrsnrdOFbAECgYEA90r39dU3e6tBO6uDiDzQ\nIfGyIQXtoVntkHOM0V210CM36Bp7ccCxpwopVzagTPCSJqTF1fNzYe++Hk4LzYAP\nZwR3QtHyaEACReixPys1WBkjLWoZaO3cDuv2DT8cHGytwFlqRY4miJFyZBxoC2nv\nfS6fdcfkhTLL8wFUMaCmydkCgYEA6Pg49lEsOpdDA2LkEmmwoxerjhr0wt6q/siO\nxvGRpypDOiybSNSBVTiHaQP/9BB7NQca0j3r4lfkPCsUZt/v+2rpZkYwbdO/Xvhn\nibEgh1/REcKmwyUDXJqXf8WqJ/NfxKTHimgJguJenCJsFYzYI/OD7GM1zZ5ysMil\njSfmTIUCgYEA4DBQ98di03UAYK4vQpWPQxaxHIsZUYwLeUeoRC6mo5kqF/vaKdg9\ntmfZ7r0ROm9msC31RO++jO0h+Ktcu+L7E7PSwvs+vhA5f1NjTRdI9yNi5ssnWh85\nvzVgDcZHH+XO53CojYI/oNPrVqMCGEbj3SMlYUvk+nSAvT9ZKtywGJECgYEAm/96\nxRVdtG4NJXtWlS3IZa035xQNyV8oySqq0HR5v6IBGjc8U+xYHiSYJ63R+i//EGcN\ngrKL/Sg1YETIiIpzO7s/RojBbQlZH9LeIclFquByMp5Q5GMoeR3bTGejpNTGz/o2\n02sO02GZUJuMHHIPWSN6txNHt8PdsJrqoDaTc7ECgYEApjGDtneVgW9B4roWVg8Q\npMUqQq9vFVYVc0hml6791z0ISUJbAfoK5+ZcU9URDV+NQsoQOuxXasAb8HIGWrwG\nuIUxeJRGmxHP4FlRJlUl3PU5tz2QmazyqL6jCGYXyw+a5Ij5kiAhsfDrm9qwY/yR\nQ8o+bzOsNxOB2jXIkFYT+uM=\n-----END PRIVATE KEY-----\n",
-  "client_email": "amit-singh@mywebbrowser-298110.iam.gserviceaccount.com",
-  "client_id": "104639820659592420561",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amit-singh%40mywebbrowser-298110.iam.gserviceaccount.com"
+  "private_key_id": "   ",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n     \n-----END PRIVATE KEY-----\n",
+  "client_email": "  ",
+  "client_id": "   ",
+  "auth_uri": "   ",
+  "token_uri": "   ",
+  "auth_provider_x509_cert_url": "   ",
+  "client_x509_cert_url": "    "
 }
